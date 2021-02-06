@@ -133,6 +133,7 @@ GameObject:
   - component: {fileID: 476037069}
   - component: {fileID: 476037068}
   - component: {fileID: 476037067}
+  - component: {fileID: 476037071}
   m_Layer: 0
   m_Name: Ball
   m_TagString: Untagged
@@ -235,12 +236,29 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 476037066}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.36, y: 3.6423838, z: 0}
+  m_LocalPosition: {x: 6.99, y: 3.7, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &476037071
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 476037066}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23b10c8a9fcd9a3449773379eca71784, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ballRigidbody2D: {fileID: 476037067}
+  speed: 3
+  jumpForce: 300
+  direction: {x: 0, y: 0}
+  yDirection: {x: 0, y: 0}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -608,8 +626,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1302526018}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.56, y: -3.05, z: 0}
-  m_LocalScale: {x: 1.976821, y: 0.8013246, z: 1}
+  m_LocalPosition: {x: -1.09, y: -2.19, z: 0}
+  m_LocalScale: {x: 1.3051898, y: 0.52907205, z: 0.66024685}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1
