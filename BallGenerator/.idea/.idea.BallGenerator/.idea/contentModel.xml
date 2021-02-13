@@ -9,7 +9,7 @@
         <e p="Scripts" t="Include">
           <e p="BallBehaviour.cs" t="Include" />
           <e p="Counter.cs" t="Include" />
-          <e p="RepublicCreditBehavior.cs" t="Include" />
+          <e p="IntData.cs" t="Include" />
         </e>
       </e>
       <e p="BallGenerator.sln" t="IncludeFlat" />

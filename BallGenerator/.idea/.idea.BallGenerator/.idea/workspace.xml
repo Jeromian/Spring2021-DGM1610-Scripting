@@ -12,10 +12,12 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Counter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IntData.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Assets/Scripts/BallBehaviour.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/IntData.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Counter.cs" />
     </changedPaths>
   </component>
@@ -68,6 +70,7 @@
       <updated>1612574819150</updated>
       <workItem from="1612574833805" duration="977000" />
       <workItem from="1613078712066" duration="2274000" />
+      <workItem from="1613175911414" duration="2828000" />
     </task>
     <servers />
   </component>
