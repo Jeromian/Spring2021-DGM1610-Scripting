@@ -8,7 +8,10 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="BallBehaviour.cs" t="Include" />
+          <e p="BoolData.cs" t="Include" />
           <e p="Counter.cs" t="Include" />
+          <e p="GateKeeperBehavior.cs" t="Include" />
+          <e p="GateOpener.cs" t="Include" />
           <e p="IntData.cs" t="Include" />
         </e>
       </e>
