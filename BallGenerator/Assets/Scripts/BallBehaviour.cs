@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -22,7 +23,12 @@ public class BallBehaviour : MonoBehaviour
         {
             yDirection.y = jumpForce;
             ballRigidbody2D.AddForce(yDirection, ForceMode2D.Force);
-            //jumpNumber--;
+            jumpNumber--;
         }
+    }
+
+    private void OnCollisionEnter2D(Collision2D other)
+    {
+        jumpNumber = 2;
     }
 }

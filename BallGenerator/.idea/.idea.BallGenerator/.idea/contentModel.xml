@@ -9,10 +9,14 @@
         <e p="Scripts" t="Include">
           <e p="BallBehaviour.cs" t="Include" />
           <e p="BoolData.cs" t="Include" />
+          <e p="corutineEventBehavior.cs" t="Include" />
+          <e p="countdownBehavior.cs" t="Include" />
           <e p="Counter.cs" t="Include" />
           <e p="GateKeeperBehavior.cs" t="Include" />
           <e p="GateOpener.cs" t="Include" />
           <e p="IntData.cs" t="Include" />
+          <e p="Operators.cs" t="Include" />
+          <e p="Variables.cs" t="Include" />
         </e>
       </e>
       <e p="BallGenerator.sln" t="IncludeFlat" />

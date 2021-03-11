@@ -14,17 +14,22 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GateKeeperBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Counter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GateOpener.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/corutineEventBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/IntData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BoolData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/countdownBehavior.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/Assets/Scripts/BallBehaviour.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/IntData.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Counter.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/BoolData.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/GateOpener.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/GateKeeperBehavior.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/BallBehaviour.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Variables.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/countdownBehavior.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/corutineEventBehavior.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1o5SAT8aRyny9kHNO6oYS7oL3G0" />
@@ -80,6 +85,8 @@
       <workItem from="1614289299841" duration="52000" />
       <workItem from="1614289451564" duration="1343000" />
       <workItem from="1614456413934" duration="2590000" />
+      <workItem from="1614722164724" duration="1187000" />
+      <workItem from="1615419184599" duration="6123000" />
     </task>
     <servers />
   </component>
